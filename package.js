@@ -1,7 +1,7 @@
 Package.describe({
   summary: "A Meteor 0.9 package for moment-timezone",
   version: "0.0.1",
-  git: "localhost"
+  git: "https://github.com/FLamparski/flamparski-moment-timezone"
 });
 
 Package.onUse(function(api) {
