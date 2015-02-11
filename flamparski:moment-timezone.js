@@ -1,1 +1,2 @@
-// Write your package code here!
+moment = this.moment;
+delete this.moment;
