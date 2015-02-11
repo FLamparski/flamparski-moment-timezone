@@ -1,1 +1,1 @@
-// Write your package code here!
+moment = this.moment;
