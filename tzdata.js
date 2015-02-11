@@ -1,4 +1,4 @@
-{
+moment.tz.load({
 	"version": "2014j",
 	"zones": [
 		"Africa/Abidjan|LMT GMT|g.8 0|01|-2ldXH.Q",
@@ -586,4 +586,4 @@
 		"Pacific/Pago_Pago|US/Samoa",
 		"Pacific/Pohnpei|Pacific/Ponape"
 	]
-}
+});

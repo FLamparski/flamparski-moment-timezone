@@ -1,0 +1,23 @@
+{
+  "name": "meteor-moment-timezone",
+  "version": "0.1.1",
+  "description": "This is an unofficial Meteor package for [Moment.js](https://momentjs.org/), a JavaScript date and time manipulation library. If you're looking for the official Meteor package, it's the [momentjs:moment](https://atmospherejs.com/momentjs/moment) package. That, however, does not include moment-timezone.",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLamparski/flamparski-moment-timezone.git"
+  },
+  "author": "flamparski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLamparski/flamparski-moment-timezone/issues"
+  },
+  "homepage": "https://github.com/FLamparski/flamparski-moment-timezone",
+  "dependencies": {
+    "moment": "^2.9.0",
+    "moment-timezone": "^0.3.0"
+  }
+}
