@@ -1,8 +1,8 @@
 # Moment with Timezones
 
-This is an unofficial Meteor package for (Moment.js)[https://momentjs.org/],
+This is an unofficial Meteor package for [Moment.js](https://momentjs.org/),
 a JavaScript date and time manipulation library. If you're looking for
-the official Meteor package, it's the (momentjs:moment)[https://atmospherejs.com/momentjs/moment]
+the official Meteor package, it's the [momentjs:moment](https://atmospherejs.com/momentjs/moment)
 package. That, however, does not include moment-timezone.
 
 ## What's in the box?
